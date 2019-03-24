@@ -1,4 +1,11 @@
 # hello
+
+## 単語の翻訳
+Add files via upload
+アップロードでファイルを追加する
+
+
+
 ## SubversionとGitのコマンド比較
 - ★印は特によく使うコマンド  
 - コマンド内容　　　　	Subversion ←→	Git
