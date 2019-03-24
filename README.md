@@ -4,7 +4,8 @@
 Add files via upload
 アップロードでファイルを追加する
 
-
+Short description of this repository
+このリポジトリの簡単な説明
 
 ## SubversionとGitのコマンド比較
 - ★印は特によく使うコマンド  
