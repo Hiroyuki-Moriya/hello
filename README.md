@@ -25,4 +25,4 @@ Short description of this repository
 - ブランチのマージ　　	merge ←→	merge
 - タグの作成　　　　　	copy ←→	tag
 - ローカルの更新★　　	update ←→	pull / fetch
-- リモートへの反映　　	commit ←→	push
+- リモートへの反映★　	commit ←→	push
