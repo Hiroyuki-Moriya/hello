@@ -4,6 +4,9 @@
 Add files via upload
 アップロードでファイルを追加する
 
+add an optional extended description.  
+オプションの詳細説明を追加します。  
+
 Short description of this repository
 このリポジトリの簡単な説明
 
