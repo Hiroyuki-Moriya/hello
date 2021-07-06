@@ -1,6 +1,5 @@
 ## GitHubの使い方  
 [今さら聞けない！GitHubの使い方【超初心者向け】](https://techacademy.jp/magazine/6235)  
-[PowerShellの基本（後編）](https://www.atmarkit.co.jp/ait/articles/0709/20/news125.html)  
 
 
 ### 目次  
