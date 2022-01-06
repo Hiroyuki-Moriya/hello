@@ -44,3 +44,6 @@ As issues are created, they’ll appear here in a searchable and filterable list
   
 To get started, you should create an issue.  
 開始するには、イシューを作成する必要があります。  
+
+## Wikiについて
+[GitHub Wikiの編集ノウハウ](https://github.com/doc-wiki-jp/wiki/wiki/GitHub-Wikiの編集ノウハウ)
