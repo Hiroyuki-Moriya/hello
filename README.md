@@ -1,4 +1,4 @@
-# hello
+# How to use GITHUB
 
 ## 単語の翻訳
 Add files via upload
