@@ -47,3 +47,7 @@ To get started, you should create an issue.
 
 ## Wikiについて
 [GitHub Wikiの編集ノウハウ](https://github.com/doc-wiki-jp/wiki/wiki/GitHub-Wikiの編集ノウハウ)
+
+## Markdown記法について
+[Markdown記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)  
+[GitHub Flavored Markdownで使える絵文字一覧](https://www.webfx.com/tools/emoji-cheat-sheet/)  
